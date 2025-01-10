@@ -17,7 +17,6 @@ public class Main extends Application {
     long currentFrameTime;
     double timeFromLastFrame;
 
-    Image trump = new Image("donald-trump.jpg");
     Image poolTable = new Image("pool-table.jpeg");
     Image soccerField = new Image("soccer-field-2.png");
 
